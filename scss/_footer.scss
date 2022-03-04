@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,300&family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+footer {
+    display: flex;
+    margin: 0 2em;
+    background-color: #f2f5ff;
+    height: 360px;
+    font-size: 14px;
+    font-family: "Spartan", sans-serif;
+}
+.footer-left {
+    margin: 41px 0 0 350px;
+    width: 50%;
+    align-items: right;
+    text-align: left;
+}
+.footer-right {
+    margin: 41px 0 0 0;
+    width: 50%;
+}
+
+.footer-header-left {
+    margin-bottom: 126px;
+}
+
+.footer-header-right {
+    margin-bottom: 54px;
+}
+
+.footer-link {
+    display: block;
+    text-decoration: none;
+    color: #323031;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Rubik", sans-serif;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.footer-form {
+    width: 500px;
+}
+.footer-input {
+    width: 390px;
+    height: 48px;
+    display: inline-block;
+    padding: 14px;
+    margin-bottom: 15px;
+    background-color: rgba(147, 159, 220, 0.24);
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Rubik", sans-serif;
+    color: #323031;
+    border-radius: 12px;
+    border: none;
+    letter-spacing: 0.03em;
+}
+
+.btn-form {
+    margin-top: 20px;
+}
